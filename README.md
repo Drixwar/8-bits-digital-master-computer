@@ -17,7 +17,8 @@ Discover all of the architecture of a revolutionary digital computer. All steps 
 
 ### 6. Extend features :
 
-In this project you will learn how to make a computer.It is a educational purpose. We will noticed that's take more thans 200 hours for designed, assembled, programmed all of parts of this digital computer. People can extend features, for exemple add a keyboard, digital screen and others... Only your imagination is the limit. Also this project refer to the documentation of the 8 bit Master Computer. 
+In this project you will learn how to make a computer.. We will noticed you that's take more than 200 hours for designed, assembled, programmed all of parts of this digital computer. People can extends features, for exemple add a keyboard, digital screen and others... Only your imagination is the limit. Also this project refer to the documentation of the 8 bit Master Computer. 
 
 This project is protected by a brand protection : Master Computer by MATHE Valentin 
 But you can reproduce parts and use this trademark for personnal usage or hand-sales
+Thanks to Ben Eater for his contribution in this project
