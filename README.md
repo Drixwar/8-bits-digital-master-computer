@@ -21,4 +21,5 @@ In this project you will learn how to make a computer.. We will noticed you that
 
 This project is protected by a brand protection : Master Computer by MATHE Valentin 
 But you can reproduce parts and use this trademark for personnal usage or hand-sales
+
 Thanks to Ben Eater for his contribution in this project
