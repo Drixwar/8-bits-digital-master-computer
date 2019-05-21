@@ -3,7 +3,7 @@
 
 Discover all of the architecture of a revolutionary digital computer. All steps to build one by yourself is detailled in the book Digital Computer Electronics writted by Malvino Albert. Avaible on https://www.amazon.fr/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945
 
-### 1. Bom of Materials
+### 1. Bill of Materials
 
 ### 2. Designed Printed circuirt board on the software Kikad
 
